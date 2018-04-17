@@ -1,2 +1,2 @@
 本次kaggle排名：6232QQ <br/>
-![img](https://imgur.com/M29b1zt) 
+![img](https://i.imgur.com/M29b1zt.png?1) 
