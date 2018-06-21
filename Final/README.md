@@ -1,4 +1,3 @@
-=
 巨量資料導論final project
 =
 # Project題目名稱：
