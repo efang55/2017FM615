@@ -1,7 +1,7 @@
 巨量資料導論final project
 =
 # Project題目名稱：
-Kobe Bryant多會射？
+Kobe Bryant多會射？- Kobe生涯投籃表現分析與模型預測
 
 ## 組員：
 M064030016張譯方、M054111049沈昌憲、N054030013林昌碩
